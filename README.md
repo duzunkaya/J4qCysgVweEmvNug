@@ -11,4 +11,6 @@ Hightligts:
 3) Bringing results twitter 
 
 -Screen Resolution : 1440x900 , It is the most used screen solution according to State Counter 2020.
--Color Selection : XXXX
+-Color Selection : 
+
+The purpose of adding blue, in this case, is convincing the user of its credibility. Technology brands like Dell, IBM, Intel, AT&T and PayPal take advantage of blue’s trustworthy message.
