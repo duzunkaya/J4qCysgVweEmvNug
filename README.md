@@ -1,5 +1,5 @@
 # ldOcUbosD0EVY1d7
-You can find the related figma URL below, please click on Play button to animation.
+You can find the related figma URL below, please click on Play button to see animation.
 
 https://www.figma.com/file/42QFFKuRdJhW6zPQxQioCu/Apziva?node-id=0%3A1
 
